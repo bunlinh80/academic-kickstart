@@ -1,0 +1,21 @@
+# Font style metadata
+name = "custom"
+
+# Optional Google font URL
+  # Consolas, "DejaVu Sans Mono", Courier, monospace;
+# google_fonts = "Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono"
+google_fonts = "Consolas:400,700|DejaVu Sans Mono:400,700|Courier:400,400italic,700|Roboto+Mono"
+
+# Font families
+  # heading_font = "Montserrat"
+  # body_font = "Roboto"
+  # nav_font = "Roboto"
+  # mono_font = "Roboto Mono"
+heading_font = "Raleway"
+body_font = "Merriweather"
+nav_font = "Merriweather"
+mono_font = "Merriweather"
+
+# Font size
+font_size = "17"
+font_size_small = "15"

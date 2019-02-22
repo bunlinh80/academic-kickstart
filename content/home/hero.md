@@ -1,7 +1,11 @@
 +++
 # Hero widget.
 widget = "hero"
+
+# Disable Large Section Below MENU BAR
+# active = true
 active = false
+
 date = 2017-10-15T00:00:00
 
 title = "Academic"
